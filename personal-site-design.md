@@ -1,7 +1,7 @@
 
 Q. What is you site's primary purpose?
 
-Well, outside of the obvious, my site is my Gym and my playground, I go there to try testand<  experiment with new skills as I learn them.
+Well, outside of the obvious, my site is my Gym and my playground, I go there to test and  experiment with the new skills as I learn them.
 
 Q. Who is your target audience?
 
