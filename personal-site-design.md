@@ -1,9 +1,9 @@
 
-What is you site's primary purpose?
+Q. What is you site's primary purpose?
 
 Well, outside of the obvious, my site is my Gym and my playground, I go there to try testand<  experiment with new skills as I learn them.
 
-Who is your target audience?
+Q. Who is your target audience?
 
 Any and all! 
 But more specifically, other EDA students, walking a similar path. 
@@ -13,7 +13,7 @@ But it will also remain as the birthplace of my venture into the world of code.
 
 It's on the internet, it's set to public ... it's in the wild now, so i shall try to bestcater for all.
 
-How do you want site visitors to interact with your site? What experience would you like them to   have?
+Q. How do you want site visitors to interact with your site? What experience would you like them      to have?
 
 That seems an odd question considering our current, limited means of navigating websites, but as time goes on, I would like them to be able to do so with their eye's, voice and even contact-less gestures.
     
