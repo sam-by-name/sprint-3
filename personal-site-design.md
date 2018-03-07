@@ -37,17 +37,28 @@ I do hope my software isn't playing up as, for that is the question I shall answ
 
 To start off my journey towards the desired goal of an inspiring website, I shall first createsome insincere code :
 
-1  First a quick meditate over the basic's of what my online presence is to contain and  <br>         convay.
-2  Then to find some paper with which to play, a couple basic doodles. These poor drawings   <br>     shall be named "Wireframe" and "Boxified Concept", iteratively more complex and both               born into existence to the tic of noisy tomato.<br>
+1  First a quick meditate over the basic's of what my online presence is to contain and               convay.<br>
+
+2  Then to find some paper with which to play, a couple basic doodles. These poor drawings            shall be named "Wireframe" and "Boxified Concept", iteratively more complex and both               born into existence to the tic of noisy tomato.<br>
+
 3  Then and only then will my fingers first find the keys, through them the lattice like              framework shall form in a furious flurry of feisty finger flicks.<br>
+
 4  Browsed antics, reflecting reflection?<br>
+
 5  When the groundwork has been laid, the links to resourceful libraries shall be made.<br> 
+
 6  Now underway, some textual content to introduce and welcome shall display. <br>
+
 7  In and around, the tags and commands find a home, bridges to a deeper more cryptic meaning         embellishments that color and shape our world, unseen by the layman, but imperative to a           worthy existence. <br>
+
 8  Rhyme and time now out the window, in comes the script, interesting verbal nonsense                beckons interaction on an unprecedented level, is it magic? or just work of the Devil?<br> 
+
 9  Flying now, parallel dimensions? is that what I did just hear? Fine then, alternate                realities commenced ... to flesh out or just too be clear.<br>
+
 10 So much hath now transpired, time to put it to the test, does it work its best? A similar          view seen by all? <br>
+
 11 If so, unleash int unto the wild, it's time for it to stand tall!<br>
+
 12 Is just more of 10 and 4, care, repair, additions but also occasions of dispair.<br>
 
 
