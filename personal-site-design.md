@@ -19,15 +19,15 @@ That seems an odd question considering our current, limited means of navigating 
     
 As for the experience I wish them to have, well initially this will be harder to implement.But ... I want that whether they arrived by accident or intent, that each visit is a uniqueand interesting one. If they arrived with questions, I wish to provide their answers, but alsoto have ones they didn't expect and for them to leave with new and unanswered questions.
 
-A one stop shop.
-My pet project shall not be.
-The Universe is vast.
-And thrives off of diversity.
+A one stop shop, <br>
+My pet project shall not be,<br>
+The Universe is vast,<br>
+And thrives off of diversity,<br>
 
-So come one, come all.
-A blast from the past.
-Or views of the future.
-Through the web we now see. 
+So come one, come all,<br>
+A blast from the past,<br>
+Or views of the future,<br>
+Through the web we now see. <br>
 
 Q. How will you build your site to support your desired user experience?
 
