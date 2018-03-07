@@ -7,17 +7,18 @@ Q. Who is your target audience?
 
 Any and all! 
 But more specifically, other EDA students, walking a similar path. 
-Teachers gauging my progression and understanding of the assignments and information laid outfor me.
+Teachers gauging my progression and understanding of the assignments and information laid outfor
+me.
 Potential employers will likely become the more primary audience as time passes.
 But it will also remain as the birthplace of my venture into the world of code.
 
-It's on the internet, it's set to public ... it's in the wild now, so i shall try to bestcater for all.
+It's on the internet, it's set to public ... it's in the wild now, so i shall try to best cater for all.
 
 Q. How do you want site visitors to interact with your site? What experience would you like them      to have?
 
 That seems an odd question considering our current, limited means of navigating websites, but as time goes on, I would like them to be able to do so with their eye's, voice and even contact-less gestures.
     
-As for the experience I wish them to have, well initially this will be harder to implement.But ... I want that whether they arrived by accident or intent, that each visit is a uniqueand interesting one. If they arrived with questions, I wish to provide their answers, but alsoto have ones they didn't expect and for them to leave with new and unanswered questions.
+As for the experience I wish them to have, well initially this will be harder to implement.But ... I want that whether they arrived by accident or intent, that each visit is a uniqueand interesting one. If they arrived with questions, I wish to provide their answers, but also to have ones they didn't expect and for them to leave with new and unanswered questions.
 
 A one stop shop, <br>
 My pet project shall not be,<br>
@@ -33,9 +34,10 @@ Q. How will you build your site to support your desired user experience?
 
 Hmm, another tough cookie to crack, but my internal debugger is coming back with :
 "What will be your starting process, in the creation of your desired end?".
-I do hope my software isn't playing up as, for that is the question I shall answer.
+I do hope my software isn't playing up, for that is the question I shall answer.
 
-To start off my journey towards the desired goal of an inspiring website, I shall first createsome insincere code :
+To start off my journey towards the desired goal of an inspiring website, I shall first create
+some insincere code :
 
 1  First a quick meditate over the basic's of what my online presence is to contain and               convay.<br>
 
@@ -57,7 +59,7 @@ To start off my journey towards the desired goal of an inspiring website, I shal
 
 10 So much hath now transpired, time to put it to the test, does it work its best? A similar          view seen by all? <br>
 
-11 If so, unleash int unto the wild, it's time for it to stand tall!<br>
+11 If so, unleash it unto the wild, it's time for it to stand tall!<br>
 
 12 Is just more of 10 and 4, care, repair, additions but also occasions of dispair.<br>
 
